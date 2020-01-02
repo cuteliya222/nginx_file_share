@@ -41,3 +41,9 @@
 2020/01/02 15:56:59 [error] 8528#1668: *41 CreateFile() "D:\installed\nginx-1.16.1/html/share/static.zip" failed (3: The system cannot find the path specified), client: 128.160.187.9, server: localhost, request: "GET /share/static.zip HTTP/1.1", host: "128.160.176.144"
 2020/01/02 15:57:35 [error] 8528#1668: *50 CreateFile() "D:\installed\nginx-1.16.1/html/share/static.zip" failed (3: The system cannot find the path specified), client: 128.160.187.9, server: localhost, request: "GET /share/static.zip HTTP/1.1", host: "128.160.176.144"
 2020/01/02 15:57:45 [error] 8528#1668: *52 CreateFile() "D:\installed\nginx-1.16.1/html/share/static.zip" failed (3: The system cannot find the path specified), client: 128.160.187.9, server: localhost, request: "GET /share/static.zip HTTP/1.1", host: "128.160.176.144"
+2020/01/02 16:09:36 [error] 8528#1668: *54 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2020/01/02 16:10:15 [notice] 9832#6068: signal process started
+2020/01/02 16:10:43 [notice] 6540#8708: signal process started
+2020/01/02 16:11:44 [notice] 9460#9776: signal process started
+2020/01/02 16:12:15 [notice] 10196#7480: signal process started
+2020/01/02 16:12:28 [notice] 8832#10104: signal process started
