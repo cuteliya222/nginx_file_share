@@ -1,0 +1,37 @@
+2019/12/30 16:01:58 [notice] 12952#5124: signal process started
+2019/12/30 16:02:56 [notice] 12724#13076: signal process started
+2019/12/30 16:03:44 [notice] 7464#12908: signal process started
+2019/12/30 16:06:06 [notice] 12692#12920: signal process started
+2019/12/30 16:06:17 [error] 9576#10728: *91 CreateFile() "D:\installed\nginx-1.16.1/html/share" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /share HTTP/1.1", host: "localhost"
+2019/12/30 16:08:15 [notice] 9384#5928: signal process started
+2019/12/30 16:08:19 [error] 9576#10728: *95 CreateFile() "D:\installed\nginx-1.16.1/html/share" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /share HTTP/1.1", host: "localhost"
+2019/12/30 16:08:25 [error] 9576#10728: *95 CreateFile() "D:\installed\nginx-1.16.1/html/download" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /download HTTP/1.1", host: "localhost"
+2019/12/30 16:08:32 [error] 9576#10728: *98 CreateFile() "D:\installed\nginx-1.16.1/html/share" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /share HTTP/1.1", host: "localhost"
+2019/12/30 16:09:13 [error] 9576#10728: *100 CreateFile() "D:\installed\nginx-1.16.1/html/share" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /share HTTP/1.1", host: "localhost"
+2019/12/30 16:09:22 [error] 9576#10728: *103 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2019/12/30 16:11:51 [notice] 4744#840: signal process started
+2019/12/30 16:12:01 [error] 9576#10728: *106 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2019/12/30 16:12:52 [error] 9576#10728: *109 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2019/12/30 16:12:52 [error] 9576#10728: *109 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2019/12/30 16:12:53 [error] 9576#10728: *109 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2019/12/30 16:12:53 [error] 9576#10728: *109 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2019/12/30 16:13:27 [emerg] 8920#13060: invalid number of arguments in "user" directive in D:\installed\nginx-1.16.1/conf/nginx.conf:3
+2019/12/30 16:13:35 [warn] 1536#4248: "user" is not supported, ignored in D:\installed\nginx-1.16.1/conf/nginx.conf:1
+2019/12/30 16:13:35 [notice] 1536#4248: signal process started
+2019/12/30 16:13:36 [warn] 6352#7048: "user" is not supported, ignored in D:\installed\nginx-1.16.1/conf/nginx.conf:1
+2019/12/30 16:13:56 [error] 9576#10728: *112 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2019/12/30 16:13:56 [error] 9576#10728: *112 directory index of "D:\installed\nginx-1.16.1/html/download/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost"
+2020/01/02 14:57:49 [warn] 7888#4536: "user" is not supported, ignored in D:\installed\nginx-1.16.1/conf/nginx.conf:1
+2020/01/02 14:57:49 [warn] 8728#8312: "user" is not supported, ignored in D:\installed\nginx-1.16.1/conf/nginx.conf:1
+2020/01/02 14:57:56 [error] 8728#5252: *1 CreateFile() "D:\work\doc\NLP/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:18001", referrer: "http://localhost:18001/"
+2020/01/02 14:58:08 [error] 8728#5252: *5 CreateFile() "D:\installed\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/01/02 15:18:46 [warn] 2888#4136: "user" is not supported, ignored in D:\installed\nginx-1.16.1/conf/nginx.conf:1
+2020/01/02 15:18:46 [notice] 2888#4136: signal process started
+2020/01/02 15:18:46 [warn] 8760#7440: "user" is not supported, ignored in D:\installed\nginx-1.16.1/conf/nginx.conf:1
+2020/01/02 15:19:17 [notice] 6820#8200: signal process started
+2020/01/02 15:19:52 [error] 532#8432: *20 CreateFile() "D:\installed\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.43.224, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.43.224", referrer: "http://192.168.43.224/download/"
+2020/01/02 15:22:14 [notice] 8456#3908: signal process started
+2020/01/02 15:24:17 [error] 1640#8352: *22 CreateFile() "D:\installed\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 128.160.176.144, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "128.160.176.144:18001", referrer: "http://128.160.176.144:18001/share/"
+2020/01/02 15:24:39 [error] 1640#8352: *24 CreateFile() "D:\installed\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 128.160.176.144, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "128.160.176.144", referrer: "http://128.160.176.144/download/"
+2020/01/02 15:26:01 [notice] 7024#6948: signal process started
+2020/01/02 15:26:10 [error] 8528#1668: *26 CreateFile() "D:\installed\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 128.160.176.144, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "128.160.176.144:8000", referrer: "http://128.160.176.144:8000/share/"
