@@ -19,7 +19,13 @@ nginx file share
     }
 
 2 启动 nginx 
-	进入到项目路径下 ，执行 start nginx
+	进入到项目路径下 ，执行 start nginx.exe
 
 3 打开浏览器,ip是你的计算机ip，port是共享端口，此处配置为8000，
 	输入ip：port/share，即可访问文件
+
+4 重新加载
+	nginx.exe -s reload
+
+5 关闭
+	nginx.exe -s stop	
