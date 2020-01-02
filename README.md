@@ -1,6 +1,6 @@
 nginx file share
 
-1 设置文件共享
+1 设置文件共享（项目已经设置 配置文件在conf/nginx.conf中，如果不改的话可以直接使用，需要共享的文件放置于D:\work\share目录下）
     server {
         listen       8000;#共享端口
         server_name  localhost;
@@ -15,7 +15,6 @@ nginx file share
             autoindex_exact_size off; # 关闭计算文件确切大小（单位bytes），只显示大概大小（单位kb、mb、gb）
             autoindex_localtime on;   # 显示本机时间而非 GMT 时间
         }
-
     }
 
 2 启动 nginx 
